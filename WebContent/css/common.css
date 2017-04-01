@@ -1,0 +1,22 @@
+BODY{
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 12px;
+    line-height: 150%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+A{
+    cursor: pointer;
+}
+A:link{
+    color: #036;
+    text-decoration: none;
+}
+A:visited{
+    color: #036;
+    text-decoration: none;
+}
+A:hover{
+    color: #f60;
+    text-decoration: underline;
+}
